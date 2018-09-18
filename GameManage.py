@@ -28,7 +28,6 @@ if select == "d":
         if date in data:
             source_file = source / data
             os.remove(source_file)
-    pass
 elif select == "m":
     try:
         p.Path.mkdir(destination, parents=True)
