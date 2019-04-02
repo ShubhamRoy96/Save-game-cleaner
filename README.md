@@ -1,7 +1,7 @@
 # Save-game-cleaner
 <b>WARNING !</b>
   This is a highly WIP script and as such, i don't take any responsibility if you accidentaly delete something that you didn't want.
-  Inform me is you would like to share some inputs with me ! Thanks !
+  Inform me if you would like to share some inputs with me ! Thanks !
   
   
   
